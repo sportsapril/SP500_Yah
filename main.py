@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/pyhon
 # coding: utf-8
 
 # In[1]:
@@ -22,7 +22,7 @@ parent_dir = os.getcwd()
 #############################
 #### Download from Yahoo ####
 #############################
-
+print(dt.datetime.now())
 # create folder
 # parent_dir = '/Users/aprilxu/Documents/GitHub/yah/raw/'
 directory = str(dt.date.today())

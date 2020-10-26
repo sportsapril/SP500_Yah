@@ -1,0 +1,287 @@
+/Applications/anaconda3/bin/python: can't open file 'main.py': [Errno 1] Operation not permitted
+/Applications/anaconda3/bin/python: can't open file 'main.py': [Errno 1] Operation not permitted
+/Applications/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py:6692: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=False'.
+
+To retain the current behavior and silence the warning, pass 'sort=True'.
+
+  sort=sort)
+processing: CF
+processing: FTNT
+processing: LYB
+processing: REGN
+processing: YUM
+DONE: downloading
+Start: processing
+DONE: processing
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-24'
+2020-10-25 19:01:01.783797
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:02:01.751463
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:03:01.755992
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+/Applications/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py:6692: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=False'.
+
+To retain the current behavior and silence the warning, pass 'sort=True'.
+
+  sort=sort)
+sys:1: DtypeWarning: Columns (3,4,5,6,7,8,9,11,12,13,15,16,17,18,19,23,24,25,26,27,28) have mixed types. Specify dtype option on import or set low_memory=False.
+2020-10-25 19:00:02.180539
+processing: CF
+processing: FTNT
+processing: LYB
+processing: REGN
+processing: YUM
+DONE: downloading
+Start: processing
+DONE: processing
+2020-10-25 19:05:02.823005
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:06:02.811968
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:07:02.131466
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+/Applications/anaconda3/lib/python3.7/site-packages/pandas/core/frame.py:6692: FutureWarning: Sorting because non-concatenation axis is not aligned. A future version
+of pandas will change to not sort by default.
+
+To accept the future behavior, pass 'sort=False'.
+
+To retain the current behavior and silence the warning, pass 'sort=True'.
+
+  sort=sort)
+sys:1: DtypeWarning: Columns (3,4,5,6,7,8,9,11,12,13,15,16,17,18,19,23,24,25,26,27,28) have mixed types. Specify dtype option on import or set low_memory=False.
+2020-10-25 19:04:01.930491
+processing: CF
+processing: FTNT
+processing: LYB
+processing: REGN
+processing: YUM
+DONE: downloading
+Start: processing
+Traceback (most recent call last):
+  File "main.py", line 262, in <module>
+    shutil.move(path,parent_dir + '/processed/')
+  File "/Applications/anaconda3/lib/python3.7/shutil.py", line 561, in move
+    raise Error("Destination path '%s' already exists" % real_dst)
+shutil.Error: Destination path '/Users/SanYen/Documents/GitHub/SP500_Yah/processed/2020-10-25' already exists
+2020-10-25 19:08:01.854039
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:09:02.221909
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:10:01.841732
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:11:01.901805
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:12:01.807095
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
+2020-10-25 19:13:01.693623
+Traceback (most recent call last):
+  File "main.py", line 30, in <module>
+    os.mkdir(path) 
+FileExistsError: [Errno 17] File exists: '/Users/SanYen/Documents/GitHub/SP500_Yah/raw/2020-10-25'
